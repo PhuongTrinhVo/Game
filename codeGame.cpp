@@ -299,13 +299,13 @@ void hienthi (xe xe, vatcan vc1, vatcan vc2)
 	int dxx = abs(xe.td.x - vc2.td.x);          // khoang cach giua tam xe va tam vat can 2
 	int dyy = abs(xe.td.y - vc2.td.y);          // khoang cach xe va vat can 2
 
-		if (dx <3 && dy <3)
+		if (dx <3 && dy <2)
 		{
-			return 1;
+			return -1;
 		}
-		else if (dxx < 3 && dyy <3)
+		else if (dxx < 3 && dyy <2)
 		{
-			return 1;
+			return -1;
 		}
 		else
 		return 0;
