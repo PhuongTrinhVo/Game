@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1525893543 source:c:\users\hieum\desktop\gameduaxe\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<math.h>
+	"DieuKhien.h"
+	"hienThi.h"
+	"xoa.h"
+
+1525893667 c:\users\hieum\desktop\gameduaxe\dieukhien.h
+	<iostream>
+	<windows.h>
+	<conio.h>
+
+1525892919 source:c:\users\hieum\desktop\gameduaxe\dieukhien.cpp
+	"DieuKhien.h"
+
+1525893667 c:\users\hieum\desktop\gameduaxe\hienthi.h
+	<iostream>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<math.h>
+
+1525893667 source:c:\users\hieum\desktop\gameduaxe\hienthi.cpp
+	"xoa.h"
+	"DieuKhien.h"
+	"hienThi.h"
+
+1525892847 source:c:\users\hieum\desktop\gameduaxe\khoitao.cpp
+
+1525893688 c:\users\hieum\desktop\gameduaxe\xoa.h
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<math.h>
+
+1525893114 source:c:\users\hieum\desktop\gameduaxe\xoa.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<math.h>
+	"xoa.h"
+
